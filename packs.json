@@ -1,0 +1,31 @@
+{
+  "packs": [
+    {
+      "name": "Animais",
+      "sounds": [
+        { "name": "Gato miando", "file": "packs/animais/gato.mp3" },
+        { "name": "Cachorro latindo", "file": "packs/animais/cachorro.mp3" },
+        { "name": "Galo cantando", "file": "packs/animais/galo.mp3" },
+        { "name": "Vaca", "file": "packs/animais/vaca.mp3" },
+        { "name": "Cabra gritando", "file": "packs/animais/cabra.mp3" }
+      ]
+    },
+    {
+      "name": "Máquinas",
+      "sounds": [
+        { "name": "Sirene de polícia", "file": "packs/maquinas/sirene.mp3" },
+        { "name": "Buzina de carro", "file": "packs/maquinas/buzina.mp3" },
+        { "name": "Despertador", "file": "packs/maquinas/despertador.mp3" },
+        { "name": "Caminhão dando ré", "file": "packs/maquinas/re.mp3" }
+      ]
+    },
+    {
+      "name": "Vozes",
+      "sounds": [
+        { "name": "Risada de vilão", "file": "packs/vozes/risada.mp3" },
+        { "name": "Espirro", "file": "packs/vozes/espirro.mp3" },
+        { "name": "Grito do Tarzan", "file": "packs/vozes/tarzan.mp3" }
+      ]
+    }
+  ]
+}
